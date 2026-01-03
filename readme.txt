@@ -31,4 +31,3 @@ Book not found
 Invalid update
 Negative stock prevention
 
-https://teams.microsoft.com/l/message/19:meeting_ZTU2M2Q4ZWItYWE2NC00OGY1LTg4MzMtODg1ZTE0ZGJjYjE0@thread.v2/1767445480801?context=%7B%22contextType%22%3A%22chat%22%7D
